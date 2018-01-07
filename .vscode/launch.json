@@ -12,7 +12,8 @@
       "console": "internalConsole",
       "stopOnEntry": false,
       "mainClass": "BaseballElimination",
-      "args": ""
+      "args": "test/teams1.txt",
+      "projectName": "baseball_elimination"
     }
   ]
 }
